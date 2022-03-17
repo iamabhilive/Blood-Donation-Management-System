@@ -17,7 +17,7 @@ margin:100px 0 50px 0;
 padding:20px 40px 10px 10px;
 }
 
-#p1{color: red;
+.p1{color: red;
 }
 
 .image1{text-align: center;
@@ -40,3 +40,13 @@ padding:20px 40px 10px 10px;
 
 .p5{padding: 20px 20px;
 } 
+
+.addinfo{font-size: 16px; 
+color: #ccc;
+}
+
+#addinfo{color: red;
+}
+
+.divi{margin-top: 10px;
+}
